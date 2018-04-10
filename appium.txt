@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 4_API_22"
+app = "C:/Estudo/Calculadora/app-android-calculator.apk"
